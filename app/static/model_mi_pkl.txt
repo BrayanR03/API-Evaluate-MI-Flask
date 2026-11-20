@@ -1,0 +1,4 @@
+Link Drive del modelo ML en .pkl 
+https://drive.google.com/drive/folders/1ORxw6knOZoXINJXlPpR4WpvJnPsVM7m9?usp=sharing
+
+Descargar el modelo y almacenarlo en esta carpeta
